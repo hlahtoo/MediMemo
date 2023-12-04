@@ -139,3 +139,7 @@ Update Appointment Form Feature:
 
 Search Appointment Feature Example:
 <img width="1422" alt="S-SearchingFeature" src="https://github.com/hlahtoo/MediMemo/assets/88179209/c95a7a6a-3ddb-4e48-a520-85c240ee87e9">
+
+
+
+Peer review: This application is amazing. The readme file is clear to guide the user to install and run it. The files are also clear to separate the frontend and backend and database.
