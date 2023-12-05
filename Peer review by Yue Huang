@@ -1,0 +1,7 @@
+<!-- 
+Peer review by Yue Huang
+
+1. Be clear in your goals and emphasize that the project is focused on using modern web technologies such as AJAX, React, and MongoDB.
+2. The project structure is well-organized with a clear separation of frontend and backend. In the backend, routers define specific routes, controllers handle business logic, and database operations for different collections are distributed across separate files.
+3. The color palette is professional and the design is user-friendly.
+-->
