@@ -37,7 +37,7 @@ app.use(passport.authenticate("session"));
 app.use("/api/appointments", indexRouter);
 app.use("/api/patients", patientRouter);
 app.use("/api/users", userRouter);
-// app.use("/", userRouter);
+
 app.use(express.static(path.join(__dirname, "front", "dist")));
 
 app.use((err, req, res, next) => {
