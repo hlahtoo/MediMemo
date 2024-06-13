@@ -113,3 +113,5 @@ function MyMongoDB() {
 const myDBInstance = MyMongoDB();
 
 export default myDBInstance;
+
+// Didn't implement passport.js for user authentication
